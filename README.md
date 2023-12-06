@@ -25,7 +25,7 @@ After connecting successfully go to postman and run the following API endpoints-
 
 5. Employee's Nth manager -> URL-> "http://localhost:8080/employee/getNthManager/ Employee id of any specific employee/ Nth which no of level you want to see ex- 1,2,3...."
 
-6. Create New emloyee-> URL-> http://localhost:8090/api/create this is POST method to create a new employee you can go to Postman body function and type this JSON format:
+6. Create New emloyee-> URL-> http://localhost:8080/employee/create this is POST method to create a new employee you can go to Postman body function and type this JSON format:
 
                                                                         {
                                                     "employeeName": "Shreya",
